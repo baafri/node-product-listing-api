@@ -113,8 +113,11 @@ The full criteria for evaluating the coding challenge can be found [here](./Crit
 
 # How to submit
 
-- If you are using https://codesandbox.io/
-  - In the menu section go to File -> Export to ZIP
+- If you decided to use codesandbox.io
+  - Go to https://codesandbox.io/s/node-product-listing-api-nt4xt
+  - Complete your project as described in codesandbox.io
+  - Ensure everything you want is compledted before submitting the project.
+  - To submit the project go to the menu section -> File -> Export to ZIP
   - Email the zipped file to your point of contact.
 
 - If you are developing on your machine
